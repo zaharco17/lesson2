@@ -13,7 +13,7 @@ def st (a, b):
 
 #проверка с различными значениями 
 for i in range(3):
- a = input(' a = ')
+ a = input('a = ')
  b = input('b = ')
  c = st (a, b)
  print (c)
