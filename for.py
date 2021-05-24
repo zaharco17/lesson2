@@ -3,7 +3,7 @@
 
 spisok = [12, 34, 56, 4, 78, 67, 90, -45, 432, 1]
 for i in spisok:
-    print( i )
+    print( i + 1 )
     
 print('-' * 20)
 
